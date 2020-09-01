@@ -23,7 +23,7 @@ step 6: run the music_try.py file
 step 7: and you have a working application of "Emotion based music player"
 
 note: https://drive.google.com/drive/folders/1ovo5AKnI5jlQJh3nscJjSc9SsnJcMAQ1?usp=sharing                    
-Access this link and download all the contents, as it our data
+Access this link and download all the contents, as it is going to be our data
 
 note: you can download kaggle dataset from, 
 https://www.kaggle.com/c/challenges-in-representation-learning-facial-expression-recognition-challenge/data
